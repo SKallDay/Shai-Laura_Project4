@@ -10,7 +10,7 @@
 //name photo and 
 
 const app = {}
-app.apiUrl = 'http://strainapi.evanbusse.com/'
+app.apiUrl = 'http://cors-strainapi.evanbusse.com/'
 app.apiKey = 'OcnJg8N'
 app.searchQueryEffect = '/strains/search/effect/'
 app.searchQueryName = '/strains/search/name/'
